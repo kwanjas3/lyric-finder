@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://kwanjas3.github.io/lyrics"
+  "homepage": "http://kwanjas3.github.io/lyric-finder"
 }
